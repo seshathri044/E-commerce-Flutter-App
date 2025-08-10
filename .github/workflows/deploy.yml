@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Change if your default branch is different
 
+permissions:
+  contents: write  # <-- allows the action to push to gh-pages branch
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
