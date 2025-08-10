@@ -1,5 +1,3 @@
-# 🛒 ShopEase – Premium E-Commerce App
-
 # 🛒 ShopEase Premium – E-Commerce Flutter App
 
 A **modern, responsive, and cross-platform** Flutter application for a complete e-commerce experience.  
@@ -103,14 +101,12 @@ This repo includes a **workflow** that:
 - ✅ Ensures **code quality & reliability**  
 
 **CI/CD Status:**  
-[![](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml)
-![Status](https://img.shields.io/badge/status-passing-brightgreen?style=for-the-badge&logo=github)
-
-![Flutter CI](https://github.com/seshathri044/E-commerce-Flutter-App/actions/workflows/flutter.yml/badge.svg)
+![Flutter CI](https://github.com/seshathri044/E-commerce-Flutter-App/actions/workflows/deploy.yml/badge.svg)
 
 ## 🤝 Contributing
 Contributions are welcome!
 Feel free to fork, improve, and submit pull requests.
+
 ## 👤 Author
-- seshathri m
-- Passionate Java devloper | Flutter
+- [SESHATHRI M](https://github.com/seshathri044)
+- Passionate Java Developer | Flutter
