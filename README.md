@@ -55,6 +55,17 @@ The app includes **Authentication**, **Product Management**, **Cart Functionalit
 This repo includes a workflow that:
 
 ✅ Runs flutter test automatically on every push/PR
+## 🚀 CI/CD Setup (GitHub Actions)
+
+This repo includes a **workflow** that:
+
+- ✅ Runs `flutter test` automatically on every push/PR  
+- ✅ Ensures **code quality & reliability**  
+
+**CI/CD Status:**  
+[![Flutter CI/CD](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml)
+![Status](https://img.shields.io/badge/status-passing-brightgreen?style=for-the-badge&logo=github)
+
 
 ✅ Ensures code quality & reliability
 
