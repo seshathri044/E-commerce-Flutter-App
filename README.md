@@ -63,7 +63,7 @@ This repo includes a **workflow** that:
 - ✅ Ensures **code quality & reliability**  
 
 **CI/CD Status:**  
-[![Flutter CI/CD](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml)
+[![](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/yourusername/shopease-premium/actions/workflows/flutter-ci.yml)
 ![Status](https://img.shields.io/badge/status-passing-brightgreen?style=for-the-badge&logo=github)
 
 
