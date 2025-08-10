@@ -1,16 +1,64 @@
-# flutter_e_commerce
+# 🛒 ShopEase – Premium E-Commerce App
 
-A new Flutter project.
+[![CI/CD](https://github.com/seshathri044/E-commerce-Flutter-App/actions/workflows/flutter.yml/badge.svg)](https://github.com/seshathri044/E-commerce-Flutter-App/actions)  
+A **production-ready, premium E-commerce application** built with **Flutter**, following **Clean Architecture** principles and powered by **Riverpod** for state management.  
+The app includes **Authentication**, **Product Management**, **Cart Functionality**, and is deployed using **CI/CD with GitHub Actions** on GitHub Pages.
 
-## Getting Started
+🚀 **Live Demo** → [ShopEase Web App](https://seshathri044.github.io/E-commerce-Flutter-App/)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Sign Up | Home Screen | Cart |
+|---------|-------------|------|
+| ![Sign Up](docs/screenshots/signup.png) | ![Home](docs/screenshots/home.png) | ![Cart](docs/screenshots/cart.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- **User Authentication**
+  - Sign Up, Sign In, Secure Logout
+- **Product Catalog**
+  - Featured products, Categories, Ratings, Prices
+- **Cart Management**
+  - Add/remove products, Quantity control, Auto price calculation
+- **Order Summary**
+  - Itemized bill, Delivery charges, Total amount
+- **Wishlist (UI ready)**
+  - Save products for later
+- **Responsive UI**
+  - Works on Web, Mobile, and Tablets
+- **State Management**
+  - Riverpod for predictable and testable state
+- **Clean Architecture**
+  - Domain-Driven Design for scalability
+- **CI/CD**
+  - Automated build and deployment to GitHub Pages
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Web & Mobile)
+- **Riverpod** (State Management)
+- **Clean Architecture**
+- **Material Design 3**
+- **GitHub Actions** (CI/CD)
+- **GitHub Pages** (Hosting)
+
+---
+
+## 📂 Project Structure
+🚀 CI/CD Setup (GitHub Actions)
+This repo includes a workflow that:
+
+✅ Runs flutter test automatically on every push/PR
+
+✅ Ensures code quality & reliability
+
+CI/CD Status:
+
+![Flutter CI](https://github.com/seshathri044/E-commerce-Flutter-App/actions/workflows/flutter.yml/badge.svg)
+
