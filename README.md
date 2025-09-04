@@ -1,8 +1,13 @@
-# 🛒 E-Commerce Flutter App - ShopEase Premium 
+# 🛒 E-Commerce Flutter App - ShopEase Premium   
+![Flutter CI](https://github.com/seshathri044/E-commerce-Flutter-App/actions/workflows/deploy.yml/badge.svg)
+
 
 A **modern, responsive, and cross-platform** Flutter application for a complete e-commerce experience.  
 Built with **Clean Architecture** and **State Management** principles for **scalability, maintainability, and performance**.  
 Designed for **mobile, web, and desktop** with **fast, and user-friendly shopping**.
+
+
+### 🚀 **Live Demo** → [ShopEase Web App](https://seshathri044.github.io/E-commerce-Flutter-App/)
 
 ---
 
@@ -22,8 +27,6 @@ lib/
 │   └── pages/
 └── main.dart            # App entry point
 ```
-
-🚀 **Live Demo** → [ShopEase Web App](https://seshathri044.github.io/E-commerce-Flutter-App/)
 
 ---
 
@@ -46,8 +49,6 @@ lib/
 <img width="1920" height="1080" alt="EC-2 1" src="https://github.com/user-attachments/assets/ff805485-45e1-4c15-a206-abd3f2b78765" />
 **Sign in Page**
 <img width="1920" height="1080" alt="EC-2 2" src="https://github.com/user-attachments/assets/806fa081-1817-4cbc-9e89-9f48eb3d5691" />
-**Sign Up Page**
-<img width="1920" height="1080" alt="EC-2 3" src="https://github.com/user-attachments/assets/9dd25ea5-0e7f-498c-b3ac-cc9d93ecb50d" />
 **Sign Up Page[With Detials]**
 <img width="1920" height="1080" alt="EC-2 4" src="https://github.com/user-attachments/assets/6917fed2-e029-4892-aad2-bb7d51afba0f" />
 **Home Page**
