@@ -31,11 +31,9 @@ lib/
 ---
 
 ✨ Features
-- ✅ Beautiful onboarding & authentication screens
+- ✅ onboarding & authentication screens
 - ✅ Product browsing with categories & filters
 - ✅ Cart & Checkout functionality
-- ✅ Order tracking and history
-- ✅ Wishlist management
 - ✅ Responsive design for mobile, web, desktop
 - ✅ Clean Architecture + Repository Pattern
 - ✅ State management with Provider / Riverpod / Bloc
